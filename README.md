@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 I am experienced Software Engineer with passion to deliver software solutions. I specialize in backend development, CI/CD deployment, and have strong knowledge of frontend technologies.
 
-* Over four years of expertise in Backend technologies in Python Django REST , Nodejs Express Backend
-* Highly skilled in SQL (MySQL, PostgreSQL), MongoDB, Agile methodologies, and Git.
-* Experience in deployment to Linux servers, CI/CD deployment on using Jenkins, Github Actions, AWS (EC2, S3, Codepipeline, Kubernetes), Github.
-* Developed features for frontend Applications in React, Vuejs, Bootstrap.
-* Strong background in software testing, code reviews, and documentation.
+Here are some highlights of my experience. 
+* Over 5 years of expertise in multiple **Backend** technologies including Spring boot, Python Django REST , Nodejs Express Backend
+* Highly skilled in **Databases** such as SQL (MySQL, PostgreSQL), MongoDB, Agile methodologies, and Git.
+* Successfully **deployed applications** to Linux servers, CI/CD deployment on using Jenkins, Github Actions, AWS (EC2, S3, Codepipeline, Kubernetes), Github.
+* Strong background in **frontend Applications** in React, Vuejs, Bootstrap.
+* Extensive expe in software testing, code reviews, and documentation.
 
 Eager to collaborate on innovative projects, cutting edge technologies and explore new opportunities in the tech world.
